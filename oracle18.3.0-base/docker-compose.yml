@@ -1,0 +1,9 @@
+version: "3.7"
+services: 
+  
+  oracle18c:
+    build: 
+      context: .
+      args: 
+        DB_EDITION: ee
+    image: oracle18c:18.3.0

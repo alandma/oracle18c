@@ -1,0 +1,8 @@
+version: "3.7"
+services: 
+  
+  orcl:
+    build: 
+      context: .
+      dockerfile: Dockerfile.xe
+    image: oracle18c:18.4.0-xe
