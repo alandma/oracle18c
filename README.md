@@ -1,9 +1,9 @@
-# Oracle 12c
+# Oracle 18c
 
 ## Base (XE)
 Criar sua propria base para criar o banco.
 
-## Oracle12c (database)
+## Oracle18c (database)
 
 Cria o banco utilizando uma base já criada e armazenada no dockerhub.
 
